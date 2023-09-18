@@ -1,2 +1,2 @@
 #!/bin/bash
-echo /alu-shell/basics 
+echo pwd 
