@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+#this is a comment
+counter=0
+
+ 
+
+until [ $counter -eq 10 ]
+
+do
+
+    echo "Best School."
+
+ 
+
+    ((counter++))
+
+done
